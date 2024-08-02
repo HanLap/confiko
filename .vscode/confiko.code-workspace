@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "frontend",
+      "path": "../services/frontend",
+    },
+    {
+      "name": "backend",
+      "path": "../services/backend",
+    },
+    {
+      "name": "ROOT",
+      "path": "..",
+    },
+  ],
+  "settings": {
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  }
+}
